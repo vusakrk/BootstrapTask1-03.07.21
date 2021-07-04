@@ -1,0 +1,28 @@
+*,
+ ::after,
+ ::before {
+    box-sizing: border-box;
+}
+
+.header-text .h-text {
+    font-weight: bold;
+}
+
+.header-text p {
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.stars {
+    color: #FFC107;
+}
+
+.mt-5 {
+    margin-top: 6rem!important;
+}
+
+
+/* .card-footer {
+    padding: 0 24px 24px !important;
+    margin-top: 50px !important;
+} */
